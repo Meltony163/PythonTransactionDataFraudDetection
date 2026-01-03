@@ -1,0 +1,2 @@
+class DataManagerFailed(Exception):
+    pass
