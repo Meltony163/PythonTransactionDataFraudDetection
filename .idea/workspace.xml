@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3607ec6b-d10c-42a6-a4ab-1ae9b254d4ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonFinalProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/App.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp/ConsoleApp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/TransactionData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/bank_transactions_data_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/credit_card_transactions.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/global_shark_attacks.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataManger/DataManger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataManger/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception/Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeatureBuilder/FeatureBuilder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FeatureBuilder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parent/Parent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parent/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReportGenerator/ReportGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReportGenerator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RiskScorer/RiskScorer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RiskScorer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TransactionCleaner/TransactionCleaner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TransactionCleaner/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TransactionFlagger/TransactionFlagger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TransactionFlagger/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/ModifedDataFrame,csv" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/ModifedDataFrame,csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

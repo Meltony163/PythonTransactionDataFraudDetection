@@ -233,26 +233,28 @@ def ExportReports():
 
         if main_choice == 0:
             Mydf.ExportNumericalDataReport()
+            CA.print_message('Exported Successfully', (0, 255, 0))
 
         elif main_choice == 1:
             if Mydf.FlaggedColumn == "":
                 CA.print_message('There Is No Flagged Columns', (255, 0, 0))
             else:
                 Mydf.ExportFlaggedTransaction()
+                CA.print_message('Exported Successfully', (0, 255, 0))
 
         elif main_choice == 2:
             if Mydf.FlaggedColumn == "":
                 CA.print_message('There Is No Flagged Columns', (255, 0, 0))
             else:
                 Mydf.ExportNumberOfSuspiciousTransactions()
+                CA.print_message('Exported Successfully', (0, 255, 0))
 
         elif main_choice == 3:
             Mydf.ExportModifiedDataSet()
+            CA.print_message('Exported Successfully', (0, 255, 0))
 
         else:
             return
-
-        CA.print_message('Exported Successfully', (0, 255, 0))
 
 
 # ===================== Main Menu ===================== #
